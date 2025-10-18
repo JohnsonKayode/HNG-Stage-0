@@ -1,0 +1,49 @@
+# 🐍 Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+
+# 🧠 Virtual environment
+venv/
+env/
+ENV/
+.venv/
+venv.bak/
+
+# 🧰 IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🧾 Log files
+*.log
+
+# ⚙️ OS system files
+.DS_Store
+Thumbs.db
+
+# 🧪 Test and coverage files
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+
+# 📦 Build artifacts
+build/
+dist/
+*.spec
+
+# 🔐 Environment variables or secrets (if you have)
+.env
+*.env
+.env.*
+
+# 🚀 Deployment folders
+*.sqlite3
